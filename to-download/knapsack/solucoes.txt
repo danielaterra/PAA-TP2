@@ -1,0 +1,2 @@
+n=  50; Lucro total:  18,00; Itens:                                  9 10 24; Total de itens:  3; Tempo:  3,97980 ms
+n= 100; Lucro total:  33,00; Itens:                              12 24 36 61; Total de itens:  4; Tempo: 12,66530 ms
